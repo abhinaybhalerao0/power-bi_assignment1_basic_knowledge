@@ -1,0 +1,117 @@
+1-What do you mean by BI? Explain.
+
+###Business intelligence (BI) is a technology-driven process for analyzing data and delivering actionable information that helps executives, managers and workers make informed business decisions. As part of the BI process, organizations collect data from internal IT systems and external sources, prepare it for analysis, run queries against the data and create data visualizations, BI dashboards and reports to make the analytics results available to business users for operational decision-making and strategic planning.
+
+The ultimate goal of BI initiatives is to drive better business decisions that enable organizations to increase revenue, improve operational efficiency and gain competitive advantages over business rivals. To achieve that goal, BI incorporates a combination of analytics, data management and reporting tools, plus various methodologies for managing and analyzing data.
+
+A business intelligence architecture includes more than just BI software. Business intelligence data is typically stored in a data warehouse built for an entire organization or in smaller data marts that hold subsets of business information for individual departments and business units, often with ties to an enterprise data warehouse. 
+
+BI data can include historical information and real-time data gathered from source systems as it's generated, enabling BI tools to support both strategic and tactical decision-making processes. Before it's used in BI applications, raw data from different source systems generally must be integrated, consolidated and cleansed using data integration and data quality management tools to ensure that BI teams and business users are analyzing accurate and consistent information.
+
+
+
+
+2-How Power-BI helps in BI, and how does it help Analysts? Explain.
+
+###Microsoft Power BI is a data visualization platform used primarily for business intelligence purposes. Designed to be used by business professionals with varying levels of data knowledge, Power BI’s dashboard is capable of reporting and visualizing data in a wide range of different styles, including graphs, maps, charts, scatter plots, and more. 
+
+Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. Your data might be an Excel spreadsheet, or a collection of cloud-based and on-premises hybrid data warehouses. Power BI lets you easily connect to your data sources, visualize and discover what's important, and share that with anyone or everyone you want.
+a.Ease of Use
+Power BI has very simple and easy to use Interface. No programming experience is required to use Power BI.It has inbuilt intelligence which helps you to select attributes for your reports by suggesting the best reporting element.
+b. Easy to Learn
+Power BI is developed on the founding platform of Excel and it follows a similar approach to design a report. Microsoft Excelis globally accepted and widely used software which makes Power BI easy to learn.
+Data modeling is purely derived on the fundamentals of Microsoft SQL Server and Microsoft Access database. Hence users/programmers can very easily adopt the data modeling of Power BI.
+c. Easy to Collaborate
+Power BI comes with easy to collaborate options. The user can collaborate with co-workers to create interactive reports and dashboards in “app” workspaces. The user can compile dashboards and reports into apps and can publish them to a larger audience. Sharing dashboards or reports with a small audience is facilitated even over the Mobile App with Power BI.
+d.Cost Effective
+Power BI desktop is free and the user can develop reports and dashboards that are easy and complex.
+e. Wide Coverage of Data Sources
+Power BI comes with a wide range of connectors for data sources like Microsoft Excel, SQL Server database, MySQL database, Oracle database, IBM DB2 database, IBM Netezza, IBM Informix, PostgreSQL database, Sybase database, SAP Hana, Amazon Redshift, Azure SQL Database, Azure SQL Data warehouse, Azure Analysis services database, Azure Blob Storage, MailChimp, Facebook, GitHub, Salesforce and many more.
+f. Powerful Tool
+Visualization
+Microsoft has opened up the visualization SDK in Power BI. It has a huge library for custom visualization. Use this functionality, the users can customize the UI as per their need.
+
+Data Shaping
+Power BI offers a tool called Query Editor which is very flexible and powerful with tons of features. The most important aspect is that it is self-documenting. It also offers you an opportunity to go deeper inside the DAX language.
+
+Data Modeling
+Any BI solution is strong if the BI model is well-developed. Power BI comes with very efficient data modeling options based on their experience of SQL database and Cube technology.
+
+
+
+
+3-Explain Descriptive analytics?
+###Descriptive analytics can help to identify the areas of strength and weakness in an organization. Examples of metrics used in descriptive analytics include year-over-year pricing changes, month-over-month sales growth, the number of users, or the total revenue per subscriber.
+
+Descriptive, which answers the question, “What happened?”
+
+Descriptive analytics is the process of using current and historical data to identify trends and relationships. It’s sometimes called the simplest form of data analysis because it describes trends and relationships but doesn’t dig deeper.
+
+Descriptive analytics is relatively accessible and likely something your organization uses daily. Basic statistical software, such as Microsoft Excel or data visualization tools, such as Google Charts , Power BI and Tableau, can help parse data, identify trends and relationships between variables, and visually display information.
+
+For ex-Traffic and Engagement Reports.
+One example of descriptive analytics is reporting. If your organization tracks engagement in the form of social media analytics or web traffic, you’re already using descriptive analytics.
+
+These reports are created by taking raw data—generated when users interact with your website, advertisements, or social media content—and using it to compare current metrics to historical metrics and visualize trends.
+
+
+
+
+
+4-Explain Predictive analytics?
+###Predictive, which answers the question, “What might happen in the future?”
+
+Predictive analytics is the use of data to predict future trends and events. It uses historical data to forecast potential scenarios that can help drive strategic decisions.
+
+The predictions could be for the near future—for instance, predicting the malfunction of a piece of machinery later that day—or the more distant future, such as predicting your company’s cash flows for the upcoming year.
+
+Predictive analysis can be conducted manually or using machine-learning algorithms. Either way, historical data is used to make assumptions about the future
+
+For ex.Finance: Forecasting Future Cash Flow
+Every business needs to keep periodic financial records, and predictive analytics can play a big role in forecasting your organization’s future health. Using historical data from previous financial statements, as well as data from the broader industry, you can project sales, revenue, and expenses to craft a picture of the future and make decisions.
+
+
+
+
+
+
+5-Explain perspective analytics?
+###Prescriptive, which answers the question, “What should we do next?”
+Prescriptive analytics is the process of using data to determine an optimal course of action. By considering all relevant factors, this type of analysis yields recommendations for next steps. Because of this, prescriptive analytics is a valuable tool for data-driven decision-making.
+
+
+ Using “if” and “else” statements, algorithms comb through data and make recommendations based on a specific combination of requirements. For instance, if at least 50 percent of customers in a dataset selected that they were “very unsatisfied” with your customer service team, the algorithm may recommend additional training.
+
+ For ex.Venture Capital: Investment Decisions
+Investment decisions, while often based on gut feelings, can be strengthened by algorithms that weigh risks and recommend whether to invest.
+
+One example in the venture capital space is an experiment—explained in the Harvard Business Review—that tested the effectiveness of an algorithm’s decisions about which startups to invest in as compared to angel investors' decisions.
+
+The findings were nuanced. The algorithm outperformed angel investors who were less experienced at investing and less skilled at controlling their cognitive biases; however, angel investors outperformed the algorithm when they were experienced in investing and able to control their cognitive biases.
+
+This experiment sheds light on the complementary role prescriptive analytics must play in making decisions and its potential to aid decision-making when experience isn’t present and cognitive biases need flagging. An algorithm is only as unbiased as the data it’s trained with, so human judgment is required whether using an algorithm or not.
+
+
+
+
+
+
+6-Write five real-life questions that PowerBi can solve.
+###
+a. Waiting On Figures.
+Power BI allows you to access your company's data analytics almost instantly. On top of that, it also makes the data easy to decipher with advanced visualizations which can be shared at the touch of a button.
+
+b. Using Data From Old Reports. 
+Using Power BI reduces the possibility of error by allowing reports to be run in seconds using only the most current data. This ensures that reports can’t be altered or deleted and eliminates the time spent sifting through files to find the correct data.
+
+c. Excessive Time Spent Preparing For Presentations. ...
+Power BI can quickly and easily create visual representations of your data and provide stunning and accurate presentations for your meetings. Using Power BI’s automated reporting tools can save hours of preparation.
+
+d. Being Unable To Find Specific Data Sets. 
+Sifting through spreadsheets in search of specific data sets is time-consuming and inefficient. One of the most useful Power BI solutions is the ability to easily search for data and data-sets.
+Power BI allows IT members to publish data catalogs for others to view. This makes it easier for you to find the data sets needed to perform an analysis. Additionally, using natural language technology and its Question & Answer feature provides a more natural experience to locate and better understand your BI.
+
+e. Not Being Able To Determine Your Level Of Success.
+While business intelligence offers a lot of useful information, not everyone knows how to use it. Even with the numbers in plain view, it can be difficult to determine whether or not your business is successful and what areas need improvement. Using Power BI’s Question & Answer feature, it’s now possible to ask your software these questions using natural language. Ask what your profits were for that month or how customer subscription numbers compare to last year’s.
+
+
